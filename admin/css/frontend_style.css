@@ -1,0 +1,1547 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freckle+Face&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Architects+Daughter&family=Cookie&family=Great+Vibes&family=Kaushan+Script&family=Ma+Shan+Zheng&family=Pacifico&family=Palette+Mosaic&family=Permanent+Marker&family=Qahiri&family=Raleway:wght@100&family=Roboto:ital,wght@0,100;0,300;1,300&family=Satisfy&family=Uchen&family=WindSong&family=Zen+Loop&family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barrio&family=Eater&family=Fontdiner+Swanky&family=Molle:ital@1&family=Mystery+Quest&family=Nosifer&display=swap');
+
+@font-face {
+    font-family: 'Anime Ace 2.0 BB';
+    src: url('../fonts/AnimeAce20BB-Italic.woff2') format('woff2'),
+        url('../fonts/AnimeAce20BB-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anime Ace 2.0 BB';
+    src: url('../fonts/AnimeAce20BB.woff2') format('woff2'),
+        url('../fonts/AnimeAce20BB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anime Ace 2.0 BB';
+    src: url('../fonts/AnimeAce20BB-Bold.woff2') format('woff2'),
+        url('../fonts/AnimeAce20BB-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beauty';
+    src: url('../fonts/Beauty.woff2') format('woff2'),
+        url('../fonts/Beauty.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Billion Dreams';
+    src: url('../fonts/BillionDreams.woff2') format('woff2'),
+        url('../fonts/BillionDreams.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'Birds of Paradise  Personal use';
+    src: url('../fonts/BirdsofParadise-PersonaluseOnly.woff2') format('woff2'),
+        url('../fonts/BirdsofParadise-PersonaluseOnly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Candyful';
+    src: url('../fonts/CandyfulRegular.woff2') format('woff2'),
+        url('../fonts/CandyfulRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Candyful';
+    src: url('../fonts/CandyfulRegular.woff2') format('woff2'),
+        url('../fonts/CandyfulRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheri Liney';
+    src: url('../fonts/CheriLiney.woff2') format('woff2'),
+        url('../fonts/CheriLiney.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheri';
+    src: url('../fonts/Cheri.woff2') format('woff2'),
+        url('../fonts/Cheri.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Candyful';
+    src: url('../fonts/CandyfulRegular.woff2') format('woff2'),
+        url('../fonts/CandyfulRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'glimmer of';
+    src: url('../fonts/glimmeroflight-Regular.woff2') format('woff2'),
+        url('../fonts/glimmeroflight-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Learning Curve';
+    src: url('../fonts/LearningCurve.woff2') format('woff2'),
+        url('../fonts/LearningCurve.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-Bold.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-BoldItalic.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-Light.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Learning Curve Dashed';
+    src: url('../fonts/LearningCurveDashed.woff2') format('woff2'),
+        url('../fonts/LearningCurveDashed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-Medium.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-LightItalic.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-MediumItalic.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-Regular.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LEMON MILK';
+    src: url('../fonts/LEMONMILK-RegularItalic.woff2') format('woff2'),
+        url('../fonts/LEMONMILK-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peach Comix_PersonalUseOnly';
+    src: url('../fonts/PeachComixPersonalUseOnly.woff2') format('woff2'),
+        url('../fonts/PeachComixPersonalUseOnly.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Heaters';
+    src: url('../fonts/Heaters.woff2') format('woff2'),
+        url('../fonts/Heaters.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Richard Hamilton';
+    src: url('../fonts/RichardHamilton.woff2') format('woff2'),
+        url('../fonts/RichardHamilton.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.i-Barrio {
+    font-family: 'Barrio', cursive;
+}
+.i-Eater {
+    font-family: 'Eater', cursive;
+}
+.i-Fontdiner {
+    font-family: 'Fontdiner Swanky', cursive;
+}
+.i-Molle {
+    font-family: 'Molle', cursive;
+}
+.i-MysteryQuest {
+    font-family: 'Mystery Quest', cursive;
+}
+.i-Nosifer{
+    font-family: 'Nosifer', cursive;
+}
+
+.i-GreatVibes {
+    font-family: 'Great Vibes', cursive;
+}
+.i-Kaushan{
+    font-family: 'Kaushan Script', cursive;
+}
+.i-Allison {
+    font-family: 'Allison', cursive;
+}
+.i-Architects {
+    font-family: 'Architects Daughter', cursive;
+}
+.i-Cookie {
+    font-family: 'Cookie', cursive;
+}
+.i-MaShanZhang {
+    font-family: 'Ma Shan Zheng', cursive;
+}
+.i-Pacifico{
+    font-family: 'Pacifico', cursive;
+}
+.i-Permanent{
+    font-family: 'Permanent Marker', cursive;
+}
+.i-Satisfy {
+    font-family: 'Satisfy', cursive;
+}
+
+
+.i-Macondo {
+    font-family: 'Macondo', cursive;
+}
+.i-finger-paint {
+    font-family: 'Finger Paint', cursive;
+}
+.i-Mansalva {
+    font-family: 'Mansalva', cursive;
+}
+.i-freckle {
+    font-family: 'Freckle Face', cursive;
+}
+.i-montez {
+    font-family: 'Montez', cursive;
+}
+.i-caveat {
+    font-family: 'Caveat', cursive;
+}
+.i-Dancing{
+   font-family: 'Dancing Script', cursive; 
+}
+.i-montecarlo {
+    font-family: 'MonteCarlo', cursive;
+}
+.i-Indie {
+    font-family: 'Indie Flower', cursive;
+}
+.i-shadows{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+/*aravinder css 5 aug 2021*/
+.options.neon {
+    margin-bottom: 30px;
+}
+.neon.choice .font-shadow-option {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.neon.choice .font-shadow-option label {
+    padding: 10px 0px;
+    width: 15%;
+    margin: auto;
+}
+.neon.choice .font-shadow-option label span{
+    font-size: 10px;
+    line-height: 14px;
+    margin-top: 2px;
+    display: block;
+    text-align: center;
+}
+.options-box  .bg_section .bg-img {
+    width: 13%;
+    border-radius: 5px;
+    border:2px solid #dddddd;
+    margin: 4px;
+    height: 40px;
+    background:#fff;
+}
+.bg-active{
+      border: 2px solid #000 !important;
+}
+.options-box .bg_section .bg-img img.bg_change {
+    height: 100%;
+    width: 50%;
+    margin: auto;
+   display: block;
+}
+.entry-summary .support-option-box label {
+    border-radius: 5px;
+    border: 2px solid #dddddd;
+    width: 88px;
+    height: 83px;
+    margin: 8px;
+    font-size: 10px !important;
+    text-align: center;
+    line-height: 10px;
+}
+.tooltip .tooltiptext {
+    width: 130px;
+    padding: 10px 5px;
+    font-size: 14px;
+}
+.background-part .bg_section{
+    display: flex;
+   flex-wrap: wrap;
+}
+
+.size-part .cut-option-box label span{
+   float: none !important;
+}
+.size-part .cut-option-box label span:hover, .size-part .cut-option-box label span{
+  
+    border-bottom: 2px solid #ccc;
+    color: #fff;
+}
+/*arvinder css end*/
+
+.exp-fix {
+    position: fixed;
+    top: 4%;
+}
+
+
+#neon_preview_text {
+
+    white-space: pre-wrap;
+}
+
+.i-Lobster{
+    font-family: 'Lobster', cursive;
+}
+
+.i-zen-tokyo-zoo{
+    font-family: 'Zen Tokyo Zoo';
+}
+.i-Raleway{
+    font-family: 'Raleway';
+}
+.i-Uchen{
+    font-family: 'Uchen';
+}
+.i-WindSong{
+    font-family: 'WindSong', cursive;
+}
+.i-Palette{
+    font-family: 'Palette Mosaic', cursive;
+}
+
+
+
+/*arvinder*/
+
+span.neon_text_error {
+color: red;
+}
+
+
+.slick-slide img:hover {
+    cursor: pointer;
+    border: 2px solid #e1006591;
+}
+
+
+.neon_price_text {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    background: #fff;
+    padding: 5px 22px;
+    text-transform: capitalize;
+    border-radius: 2px;
+    border: solid 1px rgba(0,0,0,.4);
+    font-weight: 500;
+}
+
+
+/* font families start */
+.i-robot {
+    font-family:  Robot;
+}
+.i-qahiri {
+    font-family:  qahiri;
+}
+.i-Zen-Loop {
+    font-family:  zen loop;
+}
+.i-animac{
+    font-family: 'Anime Ace 2.0 BB';
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+.i-beauty {
+    font-family: 'Beauty';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-billion {
+    font-family: 'Billion Dreams';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-lemon {
+    font-family: 'LEMON MILK';
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+.i-bird-Paradise{
+    font-family: 'Birds of Paradise  Personal use';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-Candyful{
+    font-family: 'Candyful';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.i-Cheri-Liney {
+    font-family: 'Cheri Liney';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.i-cheri{
+    font-family: 'Cheri';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-Richard-Hamilton{
+    font-family: 'Richard Hamilton';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-Heaters{
+    font-family: 'Heaters';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.i-Peach{
+     font-family: 'Peach Comix_PersonalUseOnly';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.i-glimmer-of{
+    font-family: 'glimmer of';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+.i-Learning-Curve {
+    font-family: 'Learning Curve';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/* font families ends */
+
+
+/*hide woocoomerce default featured image thumb */
+/*.woocommerce-product-gallery .woocommerce-product-gallery__image--placeholder {
+    display: none;
+}*/
+
+
+/*neon product image preview section*/
+section.img-text {
+    position: relative;
+}
+
+.tmg-cont {
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 0%;
+    right:0%;
+    margin: 0px auto;
+    color: #fff;
+    cursor: grab;
+    width: 250px;
+}
+
+#neon_preview_text {
+    color: white;
+    font-size: 35px;
+}
+
+.font-type-option input[type=radio]:checked+label{
+    text-shadow: 2px 2px 0 rgb(225 28 117 / 50%);
+}
+
+.neon .font-type-option input, 
+.neon .font-shadow-option input, 
+.neon .support-option-box input,
+.neon .cut-option-box input{
+    display: none;
+}
+
+span.inp-text label {
+    font-size: 25px!important;
+    font-weight: 400;
+    padding: 0;
+    width: 32%!important;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+span.inp-text label:hover{
+    text-shadow: 2px 2px 0 rgb(109 173 210 / 77%);
+}
+.neon label.option-label {
+    display: inline-block;
+    text-align: center;
+    padding: 0px 0 0px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 0px;
+    width: auto;
+    margin: 0 0 4px;
+}
+
+
+/*label.c-head {
+    display: inline-block;
+    text-align: left!important;
+    padding: 20px 0 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    width: 100%!important;
+}*/
+
+.single_add_to_cart_button {
+    display: none !important;
+}
+
+.choice input {
+    display: none;
+}
+
+.choice .font-shadow-option i {
+    display: block;
+    text-align: center;
+    font-size: 52px;
+    cursor: pointer;
+}
+
+.choice .font-shadow-option {
+    margin: 20px 0px 0px;
+}
+
+/*.choice label {
+    width: 15%;
+    text-align: center;
+    padding-left: 0!important;
+    float: none;
+    display: inline-block;
+    margin: 0 0 15px;
+}
+
+.choice label span {
+    font-size: 12px;
+}
+*/
+
+i.fas.fa-bolt.i-Yellow {
+    color: yellow;
+}
+
+i.fas.fa-bolt.i-Orange {
+    color: orange;
+}
+
+i.fas.fa-bolt.i-cold {
+    color: #f4fdff;
+}
+
+i.fas.fa-bolt.i-hot {
+    color: #efe7e7;
+}
+
+i.fas.fa-bolt.i-vert {
+    color: rgb(3, 220, 115);
+}
+
+i.fas.fa-bolt.i-green {
+    color: #90EE90;
+}
+
+i.fas.fa-bolt.i-rough {
+    color: rgb(236, 41, 45);
+}
+
+i.fas.fa-bolt.i-blue {
+    color: rgb(31, 83, 201);
+}
+
+i.fas.fa-bolt.i-ice-blue {
+    color: rgb(39, 167, 192);
+}
+
+i.fas.fa-bolt.i-violet {
+    color: rgb(157, 97, 211);
+}
+
+i.fas.fa-bolt.i-candy-pink {
+    color: rgb(247, 72, 167);
+}
+
+i.fas.fa-bolt.i-pink-white {
+    color: rgb(235, 30, 204);
+}
+
+.choice i:hover {
+    color: #fff!important;
+}
+
+
+
+i.fas.fa-bolt.i-Yellow:hover{
+    text-shadow: rgb(241 233 46) 0px 0px 5px, rgb(241 233 46) 0px 0px 10px, rgb(241 233 46) 0px 0px 20px, 
+    rgb(241 233 46) 0px 0px 30px, rgb(241 233 46) 0px 0px 40px, 
+    rgb(241 233 46) 0px 0px 55px, rgb(241 233 46) 0px 0px 75px;
+    }
+    
+    
+i.fas.fa-bolt.i-Orange:hover{
+    text-shadow: rgb(255 95 7) 0px 0px 5px, rgb(255 95 7) 0px 0px 10px,
+    rgb(255 95 7) 0px 0px 20px, rgb(255 95 7) 0px 0px 30px, rgb(255 95 7) 0px 0px 40px, 
+    rgb(255 95 7) 0px 0px 55px, rgb(255 95 7) 0px 0px 75px;
+    }    
+    
+    
+.i-cold:hover {
+    text-shadow: rgb(230 249 247) 0px 0px 5px, rgb(230 249 247) 0px 0px 10px, rgb(230 249 247) 0px 0px 20px, 
+    rgb(230 249 247) 0px 0px 30px, rgb(230 249 247) 0px 0px 40px, 
+    rgb(230 249 247) 0px 0px 55px, rgb(230 249 247) 0px 0px 75px;
+}   
+    
+    
+.i-hot:hover {
+    text-shadow: rgb(252 228 180) 0px 0px 5px, rgb(252 228 180) 0px 0px 10px,
+    rgb(252 228 180) 0px 0px 20px, rgb(252 228 180) 0px 0px 30px,
+    rgb(252 228 180) 0px 0px 40px, rgb(252 228 180) 0px 0px 55px, rgb(252 228 180) 0px 0px 75px;
+}   
+    
+    
+.i-vert:hover {text-shadow: rgb(3 220 115) 0px 0px 5px, rgb(3 220 115) 0px 0px 10px,
+rgb(3 220 115) 0px 0px 20px, rgb(3 220 115) 0px 0px 30px,
+rgb(3 220 115) 0px 0px 40px, rgb(3 220 115) 0px 0px 55px, rgb(3 220 115) 0px 0px 75px;}    
+
+.i-green:hover {text-shadow: rgb(100 233 211) 0px 0px 5px, rgb(100 233 211) 0px 0px 10px,
+rgb(100 233 211) 0px 0px 20px, rgb(100 233 211) 0px 0px 30px, 
+rgb(100 233 211) 0px 0px 40px, rgb(100 233 211) 0px 0px 55px, rgb(100 233 211) 0px 0px 75px;}  
+
+
+.i-rough:hover {text-shadow: rgb(236 41 45) 0px 0px 5px, rgb(236 41 45) 0px 0px 10px,
+rgb(236 41 45) 0px 0px 20px, rgb(236 41 45) 0px 0px 30px,
+rgb(236 41 45) 0px 0px 40px, rgb(236 41 45) 0px 0px 55px, rgb(236 41 45) 0px 0px 75px;}  
+
+.i-blue:hover {text-shadow: rgb(31 83 201) 0px 0px 5px, rgb(31 83 201) 0px 0px 10px, 
+rgb(31 83 201) 0px 0px 20px, rgb(31 83 201) 0px 0px 30px, 
+rgb(31 83 201) 0px 0px 40px, rgb(31 83 201) 0px 0px 55px, rgb(31 83 201) 0px 0px 75px;} 
+
+.i-ice-blue:hover {text-shadow: rgb(39 167 192) 0px 0px 5px, rgb(39 167 192) 0px 0px 10px, rgb(39 167 192) 0px 0px 20px,
+rgb(39 167 192) 0px 0px 30px, rgb(39 167 192) 0px 0px 40px, rgb(39 167 192) 0px 0px 55px,
+rgb(39 167 192) 0px 0px 75px;} 
+
+
+.i-violet:hover {text-shadow: rgb(157 97 211) 0px 0px 5px, 
+rgb(157 97 211) 0px 0px 10px, rgb(157 97 211) 0px 0px 20px, 
+rgb(157 97 211) 0px 0px 30px, rgb(157 97 211) 0px 0px 40px, rgb(157 97 211) 0px 0px 55px,
+rgb(157 97 211) 0px 0px 75px;} 
+
+.i-candy-pink:hover {text-shadow: rgb(247 72 167) 0px 0px 5px, rgb(247 72 167) 0px 0px 10px,
+rgb(247 72 167) 0px 0px 20px, rgb(247 72 167) 0px 0px 30px,
+rgb(247 72 167) 0px 0px 40px, rgb(247 72 167) 0px 0px 55px, rgb(247 72 167) 0px 0px 75px;} 
+
+.i-pink-white:hover {text-shadow: rgb(235 30 204) 0px 0px 5px, rgb(235 30 204) 0px 0px 10px,
+rgb(235 30 204) 0px 0px 20px, rgb(235 30 204) 0px 0px 30px,
+rgb(235 30 204) 0px 0px 40px, rgb(235 30 204) 0px 0px 55px, rgb(235 30 204) 0px 0px 75px;} 
+
+    
+.size-part {
+    margin: 20px 0px;
+}    
+    
+    
+
+.size-part label span {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+   
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.size-part label {border: 2px solid #ccc;   padding-left: 0!important;
+width: 49%; float: none;
+    display: inline-block;
+    margin: 0 0 5px;}
+
+.size-part label p {font-size: 11px; line-height: 18px;  
+padding: 0 4px 0px; margin: 0 0 2px!important;}
+
+.size-part label p:last-child {padding-bottom: 4px;}
+
+.size-part  .cut-option-box label {cursor: pointer;}
+.support-option-box img {
+    margin: 0px auto;
+    display: block; width:100%;
+    border: 0px!important;
+    padding: 0px 0 3px;
+    height: 60px;
+}
+.support-option-box label {
+    font-size: 13px!important;
+    text-align: center;
+    padding: 0!important;
+    cursor: pointer;
+    width: 32%;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.media-part {
+    margin: 20px 0px;
+}
+
+.Interior-part {
+    margin: 20px 0px;
+}
+
+
+.wc-pao-addons-container p {
+    margin: 0px 0px 0px!important;
+}
+
+.wc-pao-required-addon label.wc-pao-addon-name {
+    margin: 0px 0px 13px;
+}
+
+.media-part select {
+    width: 100%;
+    border: 0px;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+    border: 1px solid #000;
+    padding: 6px 12px;
+    background: rgba(255,255,255,0.2);
+    font-size: 15px;
+    border-radius: 4px;
+    outline: none!important;
+    appearance: revert;
+}
+
+.Access-part input {
+    height: 13px!important;
+    width: 13px!important;
+    border: 1px solid #000!important;
+    border-radius: 2px;
+    outline: none!important;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0!important;
+}
+
+
+.Access-part input[type=checkbox]:after {
+   left: 3px;
+    top: 0px;
+    width: 6px;
+    height: 9px;
+    border-width: 2px;
+    transform: rotate(
+40deg
+);
+   
+}
+
+.Access-part .option-box label {
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 0 0 0 3px;
+}
+
+
+.Interior-part .option-box label {
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    padding: 0 0 0 3px;
+}
+
+
+.Interior-part input {
+    height: 13px!important;
+    width: 13px!important;
+    border: 1px solid #000!important;
+    outline: none!important;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0!important;
+}
+
+.Interior-part input[type=radio]:after {
+   left: 1px;
+    top: 1px;
+    width: 9px;
+    height: 9px;
+  }
+  
+ div#product-10 p.price {
+    margin: 0px 0px;
+    color: #e10065;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.woocommerce-product-gallery{
+    will-change: min-height;
+}
+
+.sidebar__inner{
+    transform: translate(0, 0); /* For browsers don't support translate3d. */
+    transform: translate3d(0, 0, 0);
+    will-change: position, transform;
+}
+
+form.cart input {
+   border: 1px solid #000;
+    outline: none!important;
+    padding: 8px 10px;
+    margin: 3px 0px 0px;
+}
+
+#myDiv {
+    opacity: 1 !important;
+}
+
+.action {
+    color: #fff!important;
+    border-radius: 38px!important;
+    border-color: transparent!important;
+    outline: none!important;
+    transition: 0.5s;
+    padding: 6px 20px;
+    margin: 13px 0px 0px;
+    width:100%;
+}
+
+
+.action:hover {
+    transition: 0.5s;
+    padding: 6px 30px!important;
+}
+
+#previewNeon{
+    border-radius: 38px;
+    padding: 6px 40px;
+}
+
+
+section#drag_container {
+    padding: 0;
+}
+
+section#drag_container img {
+    width: 600px;
+    height: auto;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+
+
+
+.bg_slider button {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.bg_slider .slick-prev {
+    left: -40px;
+}
+
+.bg_slider .slick-next {
+    right: -30px;
+}
+
+
+.slick-slide img {
+    height: 130px;
+    width: 130px;
+}
+
+.ktslickslider {
+    opacity: 1!important;
+}
+
+
+input#bg_image {
+    display: none;
+  /*  border: 0;
+    padding: -0;
+    width: 270px;*/
+}
+
+h1.product_title.entry-title {
+    
+    display: inline-block;
+}
+
+form.cart textarea {
+    border: 1px solid #000!important;
+    outline: none!important;
+    background: rgba(255,255,255,0.2);
+    line-height: normal!important;
+    font-size: 15px;
+}
+
+.comment-part {
+    margin: 0 0 30px;
+}
+
+div#product-10 {
+    margin: 0;
+}
+
+nav.woocommerce-breadcrumb {
+    margin: 0!important;
+}
+
+header#masthead {
+    padding: 20px 0px 0px;
+}
+
+.Interior-part .option-label {margin: 0!important;}
+.Access-part .option-label {margin: 0!important;}
+
+.font-shadow-option input[type=radio]:checked+label i.i-Yellow{
+    text-shadow: rgb(241 233 46) 0px 0px 5px, rgb(241 233 46) 0px 0px 10px, rgb(241 233 46) 0px 0px 20px, rgb(241 233 46) 0px 0px 30px, rgb(241 233 46) 0px 0px 40px, rgb(241 233 46) 0px 0px 55px, rgb(241 233 46) 0px 0px 75px; 
+    color:#fff;
+}
+
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-Orange{
+    text-shadow: rgb(255 95 7) 0px 0px 5px, rgb(255 95 7) 0px 0px 10px, rgb(255 95 7) 0px 0px 20px, rgb(255 95 7) 0px 0px 30px, rgb(255 95 7) 0px 0px 40px, rgb(255 95 7) 0px 0px 55px, rgb(255 95 7) 0px 0px 75px;
+    color:#fff;
+}
+
+.font-shadow-option input[type=radio]:checked+label i.i-cold{
+    text-shadow: rgb(230 249 247) 0px 0px 5px, rgb(230 249 247) 0px 0px 10px, rgb(230 249 247) 0px 0px 20px,
+    rgb(230 249 247) 0px 0px 30px, rgb(230 249 247) 0px 0px 40px, rgb(230 249 247) 0px 0px 55px, rgb(230 249 247) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-hot{
+    text-shadow: rgb(252 228 180) 0px 0px 5px, rgb(252 228 180) 0px 0px 10px, rgb(252 228 180) 0px 0px 20px, rgb(252 228 180) 0px 0px 30px, 
+    rgb(252 228 180) 0px 0px 40px, rgb(252 228 180) 0px 0px 55px, rgb(252 228 180) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-vert{
+    text-shadow: rgb(3 220 115) 0px 0px 5px, rgb(3 220 115) 0px 0px 10px, rgb(3 220 115) 0px 0px 20px, rgb(3 220 115) 
+    0px 0px 30px, rgb(3 220 115) 0px 0px 40px, rgb(3 220 115) 0px 0px 55px, rgb(3 220 115) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-green{
+    text-shadow: rgb(100 233 211) 0px 0px 5px, rgb(100 233 211) 0px 0px 10px, rgb(100 233 211) 0px 0px 20px, rgb(100 233 211)
+    0px 0px 30px, rgb(100 233 211) 0px 0px 40px, rgb(100 233 211) 0px 0px 55px, rgb(100 233 211) 0px 0px 75px;
+    color:#fff;
+}
+
+.font-shadow-option input[type=radio]:checked+label i.i-rough{
+    text-shadow: rgb(236 41 45) 0px 0px 5px, rgb(236 41 45) 0px 0px 10px, rgb(236 41 45) 0px 0px 20px, 
+    rgb(236 41 45) 0px 0px 30px, rgb(236 41 45) 0px 0px 40px, rgb(236 41 45) 0px 0px 55px, rgb(236 41 45) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-blue{
+    text-shadow: rgb(31 83 201) 0px 0px 5px, rgb(31 83 201) 0px 0px 10px, rgb(31 83 201) 0px 0px 20px,
+    rgb(31 83 201) 0px 0px 30px, rgb(31 83 201) 0px 0px 40px, rgb(31 83 201) 0px 0px 55px, rgb(31 83 201) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-ice-blue{
+    text-shadow: rgb(39 167 192) 0px 0px 5px, rgb(39 167 192) 0px 0px 10px, rgb(39 167 192) 0px 0px 20px, 
+    rgb(39 167 192) 0px 0px 30px, rgb(39 167 192) 0px 0px 40px, rgb(39 167 192) 0px 0px 55px, rgb(39 167 192) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-violet{
+    text-shadow: rgb(157 97 211) 0px 0px 5px, rgb(157 97 211) 0px 0px 10px, rgb(157 97 211) 0px 0px 20px,
+    rgb(157 97 211) 0px 0px 30px, rgb(157 97 211) 0px 0px 40px, rgb(157 97 211) 0px 0px 55px, rgb(157 97 211) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-candy-pink{
+    text-shadow: rgb(247 72 167) 0px 0px 5px, rgb(247 72 167) 0px 0px 10px, rgb(247 72 167)
+    0px 0px 20px, rgb(247 72 167) 0px 0px 30px, rgb(247 72 167) 0px 0px 40px, rgb(247 72 167) 0px 0px 55px, rgb(247 72 167) 0px 0px 75px;
+    color:#fff;
+}
+
+
+.font-shadow-option input[type=radio]:checked+label i.i-pink-white{
+    text-shadow: rgb(235 30 204) 0px 0px 5px, rgb(235 30 204) 0px 0px 10px, 
+    rgb(235 30 204) 0px 0px 20px, rgb(235 30 204) 0px 0px 30px, rgb(235 30 204) 0px 0px 40px, rgb(235 30 204) 0px 0px 55px, rgb(235 30 204) 0px 0px 75px;
+    color:#fff;
+}
+
+.font-shadow-option input[type=radio]:checked+label i.i-Yellow{
+    text-shadow: rgb(241 233 46) 0px 0px 5px, rgb(241 233 46) 0px 0px 10px, rgb(241 233 46) 0px 0px 20px, rgb(241 233 46) 0px 0px 30px, rgb(241 233 46) 0px 0px 40px, rgb(241 233 46) 0px 0px 55px, rgb(241 233 46) 0px 0px 75px; 
+    color:#fff;
+}
+
+
+.cut-option-box input[type=radio]:checked+label {
+        border: 2px solid #2b6cb0;
+}
+
+.support-option-box input[type=radio]:checked+label{
+    border:2px solid  #2b6cb0;
+}
+
+.cart .quantity, .cart .single_add_to_cart_button{
+    display: none;
+}
+
+.action:disabled {
+    cursor: not-allowed !important;
+}
+
+
+.text-comment label {
+    display: block!important;
+    float: none;
+    text-align: left!important;
+}
+
+.text-comment {
+    margin: 20px 0 30px;
+}
+
+.text-comment input {
+    width: 100%;
+}
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9999; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.modal-content {max-width:700px; border-radius: 20px;}
+.modal-content img {width:100%;}
+.close {
+    font-size: 20px;
+    background: #000;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    margin: 0 0 8px;
+    line-height: 15px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+.summary.entry-summary .price {
+    display: none;
+}
+
+.exp-price {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.font-type-option{
+   height: 250px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.preview_wrapper {
+    display: flex;
+}
+
+.woocommerce-tabs.wc-tabs-wrapper {
+    margin: 80px 0px 0px;
+}
+
+.summary.entry-summary {padding-left: 50px !important;}
+
+.summary{
+
+	min-height: 2000px;
+
+}
+
+#sticky_neon_sidebar{
+	float: left;
+	will-change: min-height;
+}
+
+#sticky_neon_sidebar .neon_figure{
+	
+	position: relative;
+	transform: translate(0, 0);
+	transform: translate3d(0, 0, 0);
+	will-change: position, transform;
+}
+
+.hide-scrollbar {
+    overflow: -moz-hidden-unscrollable !important;
+    overflow: hidden;
+}
+
+
+@media (min-width:1200px) and (max-width:1299px){
+    span.inp-text label {
+    font-size: 20px!important;}
+    
+   
+    
+    
+}
+
+@media (min-width:1025px) and (max-width:1199px){
+    span.inp-text label {font-size: 18px!important;}
+    .choice label {width: 30%;}
+    section#drag_container img {width: 100%;    height: 460px;}
+    .slick-slide img {height: 100px;    width: 100px;}
+    
+}
+
+@media (min-width:992px) and (max-width:1024px){
+    span.inp-text label {font-size: 18px!important;}
+    .choice label {width: 30%;}
+    .bg_slider button {height: 20px; width: 20px;}
+    .bg_slider .slick-prev {left: -28px;}
+    .bg_slider .slick-next {right: -22px;}
+    .slick-slide img {padding:5px;}
+    section#drag_container img {width: 100%;    height: 450px;}
+    .tmg-cont {top:top: 32%!important;}
+    
+}
+
+@media (min-width:768px) and (max-width:991px){
+    span.inp-text label {
+        font-size: 18px!important; 
+        padding-left: 0!important; 
+        text-align: left;
+    }
+    .woocommerce-product-gallery.woocommerce-product-gallery--without-images.woocommerce-product-gallery--columns-4.images {
+         margin: 0 0 30px;    
+         width: 100%!important;    
+         max-width: 100%;
+     }
+    .choice label {
+        width:24%;
+    }
+    section#drag_container img {
+      width: 100%;
+    }
+    .slick-slide img {
+        height: 100%;
+        width: 100%;
+        padding: 10px;
+    }
+    .summary.entry-summary {
+        width: 100%!important;
+    }
+    .bg_slider .slick-prev {
+        left: -24px;
+    }
+    .exp-fix {
+        position: static;
+    }
+    .preview_wrapper {
+        display: block!important;
+    } 
+    .summary.entry-summary {
+        padding-left: 0!important;
+    }
+    .inner-wrapper-sticky {
+        z-index: 999; background:#fff;
+    }
+
+    /*arvinder css media start*/
+
+    .options-box .bg_section .bg-img {
+        width: 6%;
+        height: auto;
+    }
+    .options-box .bg_section .bg-img img.bg_change {
+        height: auto;
+        width: 54%;
+    }
+    .site-main-header-inner-wrap .site-header-main-section-left .site-header-item .mobile-site-branding .site-title.vs-md-false{
+        display: block !important;
+    }
+   
+        /*arvinder css media start*/
+}
+
+@media  (max-width:767px){
+    .inner-wrapper-sticky {z-index: 999; background:#fff;}
+   .summary.entry-summary {padding-left: 0!important;}
+  .preview_wrapper {display: block!important;} 
+     section#drag_container img {
+    width: 100%; height: 100%;}
+    span.inp-text label {font-size: 18px!important; padding-left: 0!important; text-align: left;}
+    .woocommerce-product-gallery.woocommerce-product-gallery--without-images.woocommerce-product-gallery--columns-4.images {
+    margin: 0 0 30px;    width: 100%!important;    max-width: 100%;}
+    .choice label {width:24%;}
+    .site-branding {
+    max-width: 100%!important;}
+    .neon label.option-label {text-align: left; font-size: 16px;}
+    label.c-head {font-size: 18px;}
+    
+    .bg_slider button {height: 20px;    width: 20px;}
+    .bg_slider .slick-prev {
+    left: -24px;}
+
+.bg_slider .slick-next {
+    right: -20px;}
+
+   .kadence-breadcrumb-container span {font-size: 14px;} 
+   form.cart textarea {font-size:13px;}
+    .exp-fix {position: static;}
+    .summary.entry-summary {width: 100%!important;}
+    .slick-slide img {padding:5px;}
+    
+   .site-main-header-inner-wrap .site-header-main-section-left .site-header-item .mobile-site-branding .site-title.vs-md-false{
+        display: block !important;
+    } 
+    .options-box .bg_section .bg-img {
+        width: 14%;
+        height: auto;
+    }
+    .options-box .bg_section .bg-img img.bg_change {
+        height: auto;
+        width:60%;
+    }
+   
+   section.related.products {
+    margin: 50px 0px 0px;
+}
+    
+}
+
+
+@media  (max-width:640px){
+
+.bg_slider .slick-prev {
+    left: -18px;}
+
+.bg_slider .slick-next {
+    right: -21px;}
+
+
+
+}
+
+@media  (max-width:480px){
+    .entry-summary .support-option-box label {margin:6px;}
+    .options-box.slider-part {
+    max-width: 300px; margin: 0px auto;}
+    div#product-10 p.price {
+    margin: 0px 0px;   font-size: 18px;    text-decoration: underline;}
+    span.inp-text label {
+    font-size: 13px!important; width: 30%!important;}
+    #neon_preview_text {font-size: 25px;}
+    .choice label {width: 32%;}
+    .slick-slide img {height: 100%;    width: 100%; padding:5px;}
+
+    .support-option-box label {
+    font-size: 9px!important;}
+    .bg_slider .slick-prev {
+    left: -22px;
+}
+
+.summary.entry-summary h1 {
+    font-size: 25px;
+    margin: 0px 0px 10px;
+}
+
+.support-option-box .entry-summary .support-option-box label {margin: 5px;}
+main#main .woocommerce-tabs.wc-tabs-wrapper {
+    margin: 0px 0px 0px;
+}
+
+.summary.entry-summary {
+    margin: 0!important;
+}
+    
+    
+.comment-part {
+    margin: 0!important;
+}   
+    
+    
+     
+    
+}
+
+
+@media  (max-width:360px){
+    .options.neon label.option-label {
+        font-size: 13px;
+    }
+    .bg_slider .slick-prev {
+        left: -22px;
+    }
+    .bg_slider .slick-next {
+        right: -22px;
+    }
+    label.c-head {
+        font-size: 13px;
+    }
+ 
+
+}
+
+
+

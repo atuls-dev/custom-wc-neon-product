@@ -1,0 +1,163 @@
+.neon-table{
+	width: 100%;
+}
+
+.hide_if_neon{
+    display: none !important;
+}
+
+
+.exp-custom-option-Group {
+    display: flex;
+    align-items: center;
+}
+
+.exp-option-box input {
+    width: 90% !important;
+}
+
+
+.exp-custom-option-Group .exp-option-box {
+    margin: 0 10px 15px;
+}
+
+.exp-custom-option-Group p.sub-heading {
+    width: 40%;
+}
+
+div.exp-custom-option-heading {
+	display: flex;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+p.exp-custom-option-heading {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.exp-custom-option-Group .exp-option-box label {
+	float: left!important;  	margin: 0 0 6px!important;    font-size: 12px;}
+
+.neonAddonSort::before{
+	content: "\f333";
+	font-family: Dashicons;
+	text-align: center;
+	line-height: 28px;
+	color: #999;
+	display: block;
+	width: 17px;
+	float: left;
+	height: 100%;
+}
+
+.exp-custom-option-heading label{
+	margin: 0;
+}
+
+
+table#neonSortable {margin:20px 0px 0px;}
+
+table#neonSortable th {
+    text-align: left;
+    font-size: 16px;
+}
+
+
+table#neonSortable {
+    border: 1px solid #ccc;
+    max-width: 800px;
+    padding: 15px;
+    margin: 20px 0 0 20px;
+    border-radius: 5px;
+}
+
+table#neonSortable th {
+    text-align: left;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.neonAddonSort::before{line-height:21px;}
+
+button.btnAddonRemove {margin: 0px 0px 0px 5px;}
+table#neonSortable .thickbox {
+    margin: 0!important;
+    padding: 2px 5px;
+    line-height: normal;
+    min-height: auto;
+}
+
+.thickbox {
+    margin: 0 0 0 15px!important;
+}
+
+form.neon-form {
+    padding: 20px 20px 0px;
+}
+
+form.neon-form .neon-form-heading {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 20px;
+}
+
+.neon-field-panel .form-field {
+    margin: 0 0 10px 0px;
+}
+
+.neon-field-panel .form-field input {
+    width: 100%;
+}
+
+.neon-btn {
+    margin: 30px 0px 0px;
+}
+
+.neon-btn input {
+    padding: 5px 30px;
+    font-size: 18px;
+}
+
+
+.neon-field-panel .input-label {
+    margin: 0 0 5px;
+}
+
+
+select#addonFieldType {
+    width: 100%;
+    max-width: 100%;
+}
+
+.neon-option-group.neonOptionGroup .exp-option-box:nth-child(2) {
+    margin: 0 15px;
+}
+
+
+.neon-option-group.neonOptionGroup .input-group-btn {
+    margin: 0 0 0 15px;
+    display:  flex;
+}
+
+.neon-option-group.neonOptionGroup button.btnRemove {
+    margin: 0 0 0 5px;
+}
+
+
+form.neon-form .neon-option-field {
+    margin: 0 0 15px 0px;
+}
+
+.neon-field-panel .input-label label {
+    font-weight: 600;
+}
+
+span.name-error {
+    color: #ff0000;
+}
+
+
+@media (max-width:767px){
+    table#neonSortable {margin-left:0px!important;}
+    }
